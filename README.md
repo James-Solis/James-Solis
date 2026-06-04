@@ -6,8 +6,9 @@ integrate my findings to determine the next step needed to dive deeper and test 
 
 **Featured work**
 
-- [Pythia knows Vs. acts](https://github.com/James-Solis/pythia-knows-vs-acts) —
-  how the model reconciles a memorized fact with an in-context correction.
-  Found at least two distinct retrieval pathways selected by the fact's structure.
+- [Pythia: Knows vs. Acts](https://github.com/James-Solis/pythia-knows-vs-acts) —
+  circuit-level study of how Pythia retrieves memorized facts: two distinct retrieval
+  pathways, unembedding geometry that stays fixed across scale, and a causal measurement
+  showing the computation grows more redundant as models get larger (1B → 2.8B).
 
 Background: 11+ yrs investigating system reliability (USAF, Microsoft).
